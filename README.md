@@ -1,0 +1,2 @@
+# cryptrendicator
+Cryptocurrency Trend Indicators
